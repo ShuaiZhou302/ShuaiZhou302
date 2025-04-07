@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Check my [Homepage](shuaizhou302.github.io) for more information.
+Check my [Homepage](https://shuaizhou302.github.io/) for more information.
 - 🏫 I’m a junior undergraduate at South China University of Technology (random university in China), major in Robotics Engineering.
 - 💼 I’m currently a Research intern at Carnegie Mellon University and Shanghai Jiao Tong University.
 - 🤖 I’m working on Robotics. Specifically, Multi-Agent Path Finding [(MAPF)](https://en.wikipedia.org/wiki/Multi-agent_pathfinding), an NP-Hard planning problem.
@@ -11,7 +11,6 @@ Check my [Homepage](shuaizhou302.github.io) for more information.
 
 News
 - 💻 The code of LSRP has released, Check it out [here](https://github.com/rap-lab-org/public_LSRP).
-- 
 <!--
 **ShuaiZhou302/ShuaiZhou302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
