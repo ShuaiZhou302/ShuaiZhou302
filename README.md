@@ -10,7 +10,7 @@ Check my [Homepage](https://shuaizhou302.github.io/) for more information.
 
 
 News
-- 💻 The code of LSRP has released, Check it out [here](https://github.com/rap-lab-org/public_LSRP).
+- 💻 The code of LSRP has been released, Check it out [here](https://github.com/rap-lab-org/public_LSRP). For details, please refer to the [paper](https://doi.org/10.1609/aaai.v39i14.33618) 
 <!--
 **ShuaiZhou302/ShuaiZhou302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
