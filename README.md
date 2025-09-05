@@ -3,7 +3,7 @@
 Check my [Homepage](https://shuaizhou302.github.io/) for more information.
 - 🏫 I’m a junior undergraduate at South China University of Technology (random university in China), major in Robotics Engineering.
 - 💼 I’m currently a Research intern at Carnegie Mellon University and Shanghai Jiao Tong University.
-- 🤖 I’m working on Robotics learning at CMU ME, Multi-Robot Motion Planning at CMU RI and SJTU JI.
+- 🤖 I’m working on Robot learning at CMU ME, Multi-Robot Motion Planning at CMU RI and SJTU JI.
 - ✈ I spent half of my sophomore year in UC Berkeley exchange. I have traveled a lot, CA, NV, AZ, UT, PA, NY, NJ, CT...
 - 🏸 I play badminton and used to play competitively.
 - 🤔 I’m a huge fan of [Gunpla](https://en.wikipedia.org/wiki/Gunpla) and Gundam animation (Especially UC Series).
