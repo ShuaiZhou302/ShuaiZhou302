@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 Check my [Homepage](https://shuaizhou302.github.io/) for more information.
-- 🏫 I’m a junior undergraduate at South China University of Technology (random university in China), major in Robotics Engineering.
+- 🏫 I’m a senior undergraduate at South China University of Technology, major in Robotics Engineering.
 - 💼 I’m currently a Research intern at Carnegie Mellon University and Shanghai Jiao Tong University.
 - 🤖 I’m working on Robot learning at CMU ME, Multi-Robot Motion Planning at CMU RI and SJTU JI.
 - ✈ I spent half of my sophomore year in UC Berkeley exchange. I have traveled a lot, CA, NV, AZ, UT, PA, NY, NJ, CT...
