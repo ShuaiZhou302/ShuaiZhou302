@@ -1,8 +1,10 @@
-## Hi there 👋
+## Hi there 👋 
 
 
-- 🏫 I’m a final-year undergraduate at South China University of Technology, majoring in Robotics Engineering.
-- 💼 I’m currently a Visitor at HKUST(GZ). I previously spent eight months at Carnegie Mellon University Robotics Institute, 5 months at UC Berkeley.
+- 🏫 I’m a final-year undergraduate at South China University of Technology, majoring in Robotics Engineering, and later will join CMU at pittsburgh.
+- 💼 I’m currently a visiting researcher at HKUST(GZ). I previously spent 8 months at Carnegie Mellon University Robotics Institute, 5 months at UC Berkeley.
+- 🤖 My research span across foundation model (wm, vla) to classical robot planning. Seeking ways to reach general robotics through these two complementary paths, I mean, they are just another ways around.
+- 📫 Let's Collaborate! There are multiple ways to reach me, send me an email (davidzhou718@gmail.com, shuaizhou@cmu.edu, shuai302@uw.edu, lofisoul302@berkeley.edu, shuaiz@connect.hkust-gz.edu.cn, 202264642419@mail.scut.edu.cn).
 <!--- 🤖 I’m working on Robot learning at CMU ME, Planning and Multi-Robot systems at CMU RI, UCI & USC CS and SJTU JI.
 - ✈ I spent half of my sophomore year in UC Berkeley exchange. I have traveled a lot, CA, NV, AZ, UT, PA, NY, NJ, CT...
 - 🏸 I play badminton and used to play competitively.
