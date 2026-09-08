@@ -2,7 +2,6 @@
 
 
 - 🏫 I’m an MSR at CMU RI. 
-- 💼 I got my B.Eng from SCUT and spent some amazing time at HKUST(GZ), CMU, SJTU and UC Berkeley.
 - 🤖 My research span across foundation model to classical robot planning. 
 - 📫 Reach me by email (davidzhou718@gmail.com, shuaizho@cs.cmu.edu).
 <!--- 🤖 I’m working on Robot learning at CMU ME, Planning and Multi-Robot systems at CMU RI, UCI & USC CS and SJTU JI.
