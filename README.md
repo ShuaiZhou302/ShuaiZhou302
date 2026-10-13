@@ -1,10 +1,10 @@
-## Hey listen 
+## Nothing here
 
 
-- 🏫 I’m an MSR at CMU RI. 
+<!--- - 🏫 I’m an MSR at CMU RI. 
 - 🤖 My research span across foundation model to classical robot planning. 
 - 📫 Reach me by email (davidzhou718@gmail.com, shuaizho@cs.cmu.edu).
-<!--- 🤖 I’m working on Robot learning at CMU ME, Planning and Multi-Robot systems at CMU RI, UCI & USC CS and SJTU JI.
+ 🤖 I’m working on Robot learning at CMU ME, Planning and Multi-Robot systems at CMU RI, UCI & USC CS and SJTU JI.
 - ✈ I spent half of my sophomore year in UC Berkeley exchange. I have traveled a lot, CA, NV, AZ, UT, PA, NY, NJ, CT...
 - 🏸 I play badminton and used to play competitively.
 - 🤔 I’m a huge fan of [Gunpla](https://en.wikipedia.org/wiki/Gunpla) and Gundam animation (Especially UC Series).
